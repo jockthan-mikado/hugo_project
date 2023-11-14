@@ -1,0 +1,6 @@
+#fichiers générés par hugo
+/public/
+
+#fichier spécifiques à l'éditeur
+.DS_Store
+Thumbs.db
